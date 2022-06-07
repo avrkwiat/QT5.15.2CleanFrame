@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/content/App.qml</file>
+        <file>qml/asset_imports/Quick3DAssets/Cube/Cube.qml</file>
+        <file>qml/asset_imports/Quick3DAssets/Cube/qmldir</file>
+        <file>qml/asset_imports/Quick3DAssets/Cube/meshes/cube.mesh</file>
+        <file>qml/imports/Onlygui5/qmldir</file>
+        <file>qml/imports/Onlygui5/Constants.qml</file>
+        <file>qml/imports/Onlygui5/DirectoryFontLoader.qml</file>
+        <file>qml/imports/Onlygui5/EventListModel.qml</file>
+        <file>qml/imports/Onlygui5/EventListSimulator.qml</file>
+        <file>qml/imports/Onlygui5/Values.qml</file>
+        <file>qml/content/qmldir</file>
+        <file>qml/content/Screen01.ui.qml</file>
+        <file>qml/content/MenuTest.qml</file>
+        <file>qml/content/MenuTest2.qml</file>
+    </qresource>
+</RCC>
