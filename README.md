@@ -4,7 +4,7 @@ Clear project Qt 5.15.2 with singelton, signal and slots connected to CPP
 2) All signal declarate in qml\content\App.qml
     signal buttonClicked(string str)
     signal buttonClicked2(string str) etc.
-3) Singelton Values are declarate in sec\main.cpp linke pl.nstrefa.avrkiwat
+3) Singelton Values are declarate in src\main.cpp linke pl.nstrefa.avrkiwat
     qmlRegisterSingletonType<ValuesFromC>("pl.nstrefa.avrkwiat", 1, 0, "ValueC",
                                      [&](QQmlEngine *, QJSEngine *) -> QObject * {
         return &valueC;
