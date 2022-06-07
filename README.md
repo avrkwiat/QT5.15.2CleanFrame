@@ -11,6 +11,5 @@ Clear project Qt 5.15.2 with singelton, signal and slots connected to CPP
     });
 4) Example slot are in qml\content\MenuTest.qml  
           onClicked: {
-            //send signal to cpp slot
             window.buttonClicked2("Click Me")
         }
